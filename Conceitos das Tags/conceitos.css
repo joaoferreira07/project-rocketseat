@@ -1,0 +1,11 @@
+ /*Serve para tirar os espaçamentos padrao dos navegadores recomendo sempre tirar*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body * {
+   font-family: "Inter", sans-serif;
+   background-image:url(./bg-mobile.jpg) ;
+}
